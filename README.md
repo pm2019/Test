@@ -43,4 +43,4 @@ Reorganise the JSON feed so that it matches the sample image. Left and right but
 ![sample](example/sample.png)
 
 ## Optional Task
-Split the films into three seperate carousels, ordered by phases
+Split the films into three seperate carousels, ordered by phases.
